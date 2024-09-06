@@ -1,16 +1,29 @@
 # Практическая работа № 1 (Программирование корпоративных систем)
 
-Выполнила Полошкова Анастасия, ЭФБО-01-22
+## Полошкова Анастасия, ЭФБО-01-22
 
-## Описание заданий и их выполнение
+### Описание заданий и их выполнение
 
-This project is a starting point for a Flutter application.
+1. Установила на свой компьютер среду разработки Android Studio и настроила её для работы с мобильными приложениями.
+   
+![image](https://github.com/user-attachments/assets/affd32f4-3604-4968-88b8-f39dd4fb6f83)
 
-A few resources to get you started if this is your first Flutter project:
+  А также установила Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  ![image](https://github.com/user-attachments/assets/dc474a69-e1c0-4581-86de-230c56eb62a5)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Изменила переменную среду Path, добавив путь D:/flutter/bin
+3. Проверила корректность установки Flutter
+![image](https://github.com/user-attachments/assets/9761aacd-6837-414f-bcd9-9032f4f32ee5)
+
+4. Создала новый проект
+   `flutter create pr_1`
+   
+5. Запустила в режиме веб
+![Снимок экрана (130)](https://github.com/user-attachments/assets/a2be348d-2295-4685-b6f0-229629a32a68)
+
+6. Запустила в эмуляторе
+![Снимок экрана (131)](https://github.com/user-attachments/assets/caf91158-1618-4a52-8161-9b2563511a75)
+
+  
+
