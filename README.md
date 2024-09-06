@@ -1,8 +1,8 @@
-# pr_1
+# Практическая работа № 1 (Программирование корпоративных систем)
 
-A new Flutter project.
+Выполнила Полошкова Анастасия, ЭФБО-01-22
 
-## Getting Started
+## Описание заданий и их выполнение
 
 This project is a starting point for a Flutter application.
 
